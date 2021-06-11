@@ -1,2 +1,2 @@
 # Project
-Detecting Phishing Website using Machine Learning
+To explore Supervised Machine Learning
